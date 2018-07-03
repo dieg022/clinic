@@ -13,6 +13,7 @@ public class ClinicsApplication
 	public static void main(String[] args) 
 	{	
 		SpringApplication.run(ClinicsApplication.class, args);
+		//pruebas DE DIEGO CAMBIANDO MAIN
 	}
 
 }
