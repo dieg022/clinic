@@ -15,6 +15,7 @@ public class ClinicsApplication
 		SpringApplication.run(ClinicsApplication.class, args);
 		//pruebas DE DIEGO CAMBIANDO MAIN
 		//pruebas 2 de diego
+		//CAMBIOS EN LA RAMA
 	}
 
 }
